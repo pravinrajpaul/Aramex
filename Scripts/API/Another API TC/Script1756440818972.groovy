@@ -19,4 +19,4 @@ import org.openqa.selenium.Keys as Keys
 
 println "Hello"
 
-println "Welcome"
+println "Hi and Welcome"
