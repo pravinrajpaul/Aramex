@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>aa628282-ca0b-49c1-a766-9d64357448e2</testSuiteGuid>
+   <testCaseLink>
+      <guid>32e1e1e5-8264-4b81-8b1e-5a8b98d1d9c6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HR_APP/Login/Login as Admin Role</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1b4269a6-a65c-445d-8d55-de5bcae5a391</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Loging Admin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1b4269a6-a65c-445d-8d55-de5bcae5a391</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>aeb940ff-4c77-40b4-af5f-f47bd583ef7e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b4269a6-a65c-445d-8d55-de5bcae5a391</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>c6da6f37-df10-465e-aa44-664402661cdf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1b4269a6-a65c-445d-8d55-de5bcae5a391</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>AdminPage</value>
+         <variableId>cafd210d-94dc-40d5-8a4e-16c00ec8882d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e4e07481-1940-4aad-84f9-8cef784b75dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/HR_APP/Login/Login as Admin _ Script</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

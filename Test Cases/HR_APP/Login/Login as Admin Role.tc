@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login as Admin Role</name>
+   <tag>Login, Regression, Sanity, Admin</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f07e63a-5c9a-4dd8-87b9-5661389d10b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aeb940ff-4c77-40b4-af5f-f47bd583ef7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6da6f37-df10-465e-aa44-664402661cdf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cafd210d-94dc-40d5-8a4e-16c00ec8882d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>aeb940ff-4c77-40b4-af5f-f47bd583ef7e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>c6da6f37-df10-465e-aa44-664402661cdf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dashboard'</defaultValue>
+      <description></description>
+      <id>cafd210d-94dc-40d5-8a4e-16c00ec8882d</id>
+      <masked>false</masked>
+      <name>pageheader</name>
+   </variable>
+</TestCaseEntity>

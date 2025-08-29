@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Pet",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",  
+        "example": "1000"   
+      },
+      "name": {
+        "type": "string",
+        "example": "Doggy"
+      },
+      "photoUrls": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1,     
+        "example": ["url1.jpg"]
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer",
+              "example": 101
+            },
+            "name": {
+              "type": "string",
+              "example": "bulldog"
+            }
+          },
+          "required": ["id", "name"]
+        }
+      },
+      "status": {
+        "type": "string",
+        "enum": ["sold"],  
+        "example": "sold"
+      }
+    },
+    "required": ["id", "name", "photoUrls", "tags", "status"]
+  }
+  

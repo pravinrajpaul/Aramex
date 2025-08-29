@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login as Admin _ Script</name>
+   <tag>Login, Regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>59093563-e2de-40f3-a415-934567bdaef5</testCaseGuid>
+</TestCaseEntity>

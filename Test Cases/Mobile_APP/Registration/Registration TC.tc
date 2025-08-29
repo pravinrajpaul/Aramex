@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration TC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4bdd84e-0d1e-420e-b490-71ad0f9ace52</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>873f26fc-c1bc-4620-b9a2-7f4f9a7e1f29</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Peru'</defaultValue>
+      <description></description>
+      <id>873f26fc-c1bc-4620-b9a2-7f4f9a7e1f29</id>
+      <masked>false</masked>
+      <name>country</name>
+   </variable>
+</TestCaseEntity>

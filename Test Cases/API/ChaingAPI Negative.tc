@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChaingAPI Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45e8c331-cdca-4d9a-9014-d44c37f94fea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70f08a6d-04e4-4065-8910-456e2c0a4ba2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1005'</defaultValue>
+      <description></description>
+      <id>70f08a6d-04e4-4065-8910-456e2c0a4ba2</id>
+      <masked>false</masked>
+      <name>pid</name>
+   </variable>
+</TestCaseEntity>

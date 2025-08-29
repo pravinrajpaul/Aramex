@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ChaingAPI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8823ff4-4f3e-40cf-8a18-52aaf155c2ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7df45029-55e5-4c15-b73e-c87681f81615</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1005'</defaultValue>
+      <description></description>
+      <id>7df45029-55e5-4c15-b73e-c87681f81615</id>
+      <masked>false</masked>
+      <name>pid</name>
+   </variable>
+</TestCaseEntity>
